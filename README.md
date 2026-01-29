@@ -72,32 +72,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
 </p>
 
-
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ariyannaveed&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ariyannaveed&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyannaveed&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    height="170"
-  />
-</p>
-
 
 ## ☕ Support
 <p>
