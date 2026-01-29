@@ -2,7 +2,7 @@
 <h3 align="center">ASP.NET Core Developer | Clean Architecture & REST APIs</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd6Z3l0ZWt4ZmI2N2l0c2ZqM3R6MXRzbGx5eHNjMTh6b2F5b2c2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRqM2ZyZmN4cWJxM2x6dHV0Y3VpbDhkNXJzNWt2OG1lY2x2cXdyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="300" />
 
 
 
