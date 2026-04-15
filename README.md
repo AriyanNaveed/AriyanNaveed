@@ -31,7 +31,7 @@
 ---
 
 ## 🌐 Portfolio
-👨‍💻 https://portfolio-ariyan-xi.vercel.app
+👨‍💻 https://ariyannaveed.vercel.app
 
 ---
 
